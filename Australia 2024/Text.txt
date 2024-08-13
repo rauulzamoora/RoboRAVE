@@ -1,0 +1,9 @@
+Items:
+- 2 Titan Dc Gearhead Motor 12V 1000 RPM HP
+- 1 XMotion All In One Controller V3
+- 2 QTR1A Contrast (Edge) Sensor
+- 5 JS40F Digital Distance Sensor
+- 1 Lipo Batery 2200 mAh 11.1 V
+- 2 Wheels
+- 1 Japan razor blade
+- 1 Switch
